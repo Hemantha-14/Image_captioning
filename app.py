@@ -5,7 +5,7 @@ from io import BytesIO
 from PIL import Image
 
 # Set up Google GenAI API Key
-genai.configure(api_key="AIzaSyBZ_ehc2Q00pGiexfVYJmrN6-hxkEUHEMs")
+genai.configure(api_key="PASTE YOUR GOOGLE API KEY")
 
 # Supported languages for translation
 LANGUAGES = ["Tamil", "Hindi", "Telugu", "Kannada", "Malayalam", "Bengali", "Gujarati", "Marathi", "Punjabi", "Odia"]
